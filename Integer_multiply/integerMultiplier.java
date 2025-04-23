@@ -1,3 +1,4 @@
+package Integer_multiply;
 // Question: Given two arrays a and b, return the result after multiplying the 2 numbers without using the operator (*). 
 
 public class integerMultiplier {
